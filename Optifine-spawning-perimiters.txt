@@ -1,0 +1,31 @@
+skins.#=(#)
+//select the texture number you wish to apply
+
+
+baby.#=(true/false)
+
+biome.#=(biome)
+
+minHeight.#=(y=_)
+
+maxHeight.#=(y=_)
+
+name.#=(name)
+//select the perimeters for the textures to spawn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//NOTE: DO NOT USE PARENTHESIS WHILST MAKING A TEXTURE PACK, THESE ARE FOR CLARITY ONLY
